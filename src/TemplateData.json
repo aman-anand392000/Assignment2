@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "image": "https://assets.entrepreneur.com/content/3x2/1300/20161215200057-mcdonalds-sirloin-third-pound-burger.jpeg",
+        "title": "Food"
+        
+    },
+    {
+        "id": 2,
+        "image": "https://images.pexels.com/photos/1661179/pexels-photo-1661179.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "title": "Bird"
+        
+    },
+    {
+        "id": 3,
+        "image": "http://4.bp.blogspot.com/-OpqSAKhcdZ4/VhqjfoUSo1I/AAAAAAAAJ5M/TZy0hzbMAjE/s1600/Gatewayofindia.jpg",
+        "title": "Place"
+        
+    },
+    {
+      "id": 4,
+      "image": "https://images.pexels.com/photos/792381/pexels-photo-792381.jpeg?cs=srgb&dl=pexels-george-desipris-792381.jpg&fm=jpg" ,
+        "title": "Animal"
+     }
+]
